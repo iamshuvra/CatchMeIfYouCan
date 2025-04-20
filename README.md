@@ -138,6 +138,7 @@ To ensure proper functionality, I ran the game under various scenarios and added
 - ✅ Watched for correct game endings when win/loss conditions were triggered.
 
 These tests gave confidence that the AI behaved as expected and responded dynamically to the game state.
+![Game Screenshot](catchmeifyoucan.png)
 
 ---
 
